@@ -1,7 +1,7 @@
 
-# Project Title
+## GitSeekr.
 
-A brief description of what this project does and who it's for
+A web application that is used to search for different user's of Github
 
 ## Tech Stack
 
@@ -13,13 +13,12 @@ Insert gif or link to demo
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Responsive 
+- Skeleton loading
+- Smooth Transition
+- Search user's
+- View on the user's activities and profile
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Run Locally
 
