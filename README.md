@@ -50,7 +50,7 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@ntokozo gumede](https://ntokozo-portfolio.netlify.app/)
 
 ## License
 
