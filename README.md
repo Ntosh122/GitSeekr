@@ -20,7 +20,7 @@ Insert gif or link to demo
 - View on the user's activities and profile
 
 ## Author
-Built with love ❤️ by Ntokozo Gumede
+Built with love ❤️[@Ntokozo Gumede](https://ntokozo-portfolio.netlify.app/)
 
 
 Clone the project
@@ -50,7 +50,7 @@ Open with live server
 
 ## Authors
 
-- [@ntokozo gumede](https://ntokozo-portfolio.netlify.app/)
+
 
 ## License
 
