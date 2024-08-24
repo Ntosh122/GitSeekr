@@ -19,8 +19,9 @@ Insert gif or link to demo
 - Search user's
 - View on the user's activities and profile
 
+## Author
+Built with love ❤️ by Ntokozo Gumede
 
-## Run Locally
 
 Clone the project
 
