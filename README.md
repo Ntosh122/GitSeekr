@@ -9,7 +9,7 @@ A web application that is used to search for different user's of Github
 
 ## Demo
 
-Insert gif or link to demo
+https://gitseekr-ntandos-projects-7a07e398.vercel.app
 
 ## Features
 
